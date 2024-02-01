@@ -1,1 +1,1 @@
-hellopkg
+print('hello')
