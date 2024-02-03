@@ -6,4 +6,3 @@ celcius=eval(input("Enter Celcius °C: "))
 f= celcius * 9/5 + 32 
 
 print("%s °C = %s °F"%(celcius,f))
-
